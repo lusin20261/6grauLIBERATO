@@ -1,0 +1,5 @@
+1:la de geografia
+2:la de ingles/frances
+3:la de biologia
+4:la de fisica
+5:barrer mi cuarto
